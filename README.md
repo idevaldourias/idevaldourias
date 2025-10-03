@@ -1,16 +1,25 @@
-## Hi there 👋
+# Perfil Profissional - Idevaldo Urias
 
-<!--
-**idevaldourias/idevaldourias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Idevaldo Urias e sou desenvolvedor de softwares especializado em .NET (C#), com foco no desenvolvimento backend.
 
-Here are some ideas to get you started:
+## Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Developer**: Experiência sólida na criação de APIs RESTful utilizando .NET (C#).
+- **Bancos de Dados**: Integração de sistemas com bancos de dados SQL, especialmente PostgreSQL, utilizando Entity Framework.
+- **Versionamento de Código**: Domínio de Git e GitHub, seguindo o fluxo de trabalho Gitflow.
+- **Metodologias Ágeis**: Atuação em equipes que utilizam Scrum para organização e entrega de projetos.
+- **Frontend**: Conhecimentos em HTML5 e CSS3.
+- **Observação**: Ainda não possuo experiência com JavaScript.
+
+## Stack Principal
+
+- **Linguagens:** C#
+- **Frameworks:** .NET, Entity Framework
+- **Banco de Dados:** PostgreSQL
+- **Versionamento:** Git, GitHub (Gitflow)
+- **Frontend:** HTML5, CSS3
+- **Metodologias:** Scrum
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/idevaldo-urias)
